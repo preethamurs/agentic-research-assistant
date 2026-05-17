@@ -154,7 +154,7 @@ React displays the result with timestamp
 ## Screenshots
 
 > Dark Mode
-![Dark Mode](https://via.placeholder.com/800x400?text=Dark+Mode+Screenshot)
+![Dark Mode](dark.png.png)
 
 > Light Mode  
 ![Light Mode](light.png.png)
